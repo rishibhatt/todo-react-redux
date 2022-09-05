@@ -1,0 +1,50 @@
+.container
+{
+    width:90%;
+    height: 60vh;
+}
+
+.add-item
+{
+
+    width: 50%;
+    height: 48px;
+    background-color: #EEEEEE ;
+    
+}
+.add-btn
+{
+    right: 28%;
+    background-color: #222831;
+    color: white;
+}
+.list-con
+{
+    width: 50%;
+    height: 48px;
+    justify-content: space-between;
+
+}
+.data
+{
+    color: #393E46;
+    margin-left: 20px;
+
+}
+
+.deleteBtn
+{
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+}
+
+.remove-all
+{
+
+    text-align: center;
+    margin: 0 auto;
+    top: 20%;
+    right:20%
+    
+}
