@@ -1,6 +1,6 @@
 {
   "name": "to-do",
-  "homepage": "https://rishibhatt.github.io/to-do",
+  "homepage": "https://rishibhatt.github.io/todo-react-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
